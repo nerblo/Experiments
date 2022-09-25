@@ -6,8 +6,8 @@
 // @version      1.0.8
 // @description  Set Twitch Experiments Permanently
 // @match        *://*.twitch.tv/*
-// @updateURL    https://github.com/nerblo/Experiments/twitch_experiments.user.js
-// @downloadURL  https://github.com/nerblo/Experiments/twitch_experiments.user.js
+// @updateURL    https://github.com/nerblo/Experiments/raw/main/twitch_experiments.user.js
+// @downloadURL  https://github.com/nerblo/Experiments/raw/main/twitch_experiments.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
