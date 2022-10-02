@@ -3,7 +3,7 @@
 // @namespace    https://github.com/nerblo/Experiments
 // @author       https://github.com/nerblo
 // @copyright    https://github.com/nerblo
-// @version      1.0.8
+// @version      1.0.9
 // @description  Set Twitch Experiments Permanently
 // @match        *://*.twitch.tv/*
 // @updateURL    https://github.com/nerblo/Experiments/raw/main/twitch_experiments.user.js
