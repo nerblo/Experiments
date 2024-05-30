@@ -15,9 +15,14 @@
 const nExperiments = [];
 
 // Chat History
-nExperiments.push({ name: "994869b7-223b-4d34-b30c-46b403d6468b", value: "treatment" });
+// nExperiments.push({ name: "994869b7-223b-4d34-b30c-46b403d6468b", value: "treatment" });
+
 // WYSIWYG Editor
 // nExperiments.push({ name: "224664cf2d-0df6-43fb-8196-25fac34700d5", value: "control" });
+
+// Directory View - disco_bpli
+nExperiments.push({ name: "c86b522c-2b6c-40d6-97c2-c8912d1f8763", value: "control" });
+
 
 // Set the cookie
 function nerbSetCookie(nName, nValue, nExpDays) {
