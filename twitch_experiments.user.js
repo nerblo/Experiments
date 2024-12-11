@@ -3,7 +3,7 @@
 // @namespace    https://github.com/nerblo/Experiments
 // @author       https://github.com/nerblo
 // @copyright    https://github.com/nerblo
-// @version      1.0.9
+// @version      1.0.10
 // @description  Set Twitch Experiments Permanently
 // @match        *://*.twitch.tv/*
 // @updateURL    https://github.com/nerblo/Experiments/raw/main/twitch_experiments.user.js
@@ -23,6 +23,8 @@ const nExperiments = [];
 // Directory View - disco_bpli
 nExperiments.push({ name: "c86b522c-2b6c-40d6-97c2-c8912d1f8763", value: "control" });
 
+// Weblayout - Old Design
+nExperiments.push({ name: "abbeeb40-65b8-4d8a-970f-db96631f72be", value: "control" });
 
 // Set the cookie
 function nerbSetCookie(nName, nValue, nExpDays) {
